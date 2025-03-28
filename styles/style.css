@@ -330,7 +330,7 @@ ol {
   text-decoration: underline;
   text-decoration-style: solid;
   text-decoration-thickness: 1px;
-  text-underline-offset: 6px;
+  text-underline-offset: 2px;
   color: #fff;
   cursor: pointer;
 }
